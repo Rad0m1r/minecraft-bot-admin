@@ -14,5 +14,7 @@ Requirements:
 > 
 > pip install telebot
 
-Provide the bot API token and your Telegram ID.
+Specify the server IP, password, and port in rcon.py.
+
+Provide the bot API token and your Telegram ID in Bot.py.
 
